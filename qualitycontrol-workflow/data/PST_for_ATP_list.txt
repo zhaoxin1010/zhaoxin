@@ -1,0 +1,14 @@
+rxn10125_c0	0	1000	cpd00004_c0 + cpd00006_c0 + 2.0 cpd00067_e0 <=> cpd00003_c0 + cpd00005_c0 + 2.0 cpd00067_c0	NADH_c0 + NADP_c0 + 2.0 H_e0 <=> NAD_c0 + NADPH_c0 + 2.0 H_c0	
+rxn05145_c0	0	1000	cpd00001_c0 + cpd00002_c0 + cpd00009_e0 <=> cpd00008_c0 + 2.0 cpd00009_c0 + cpd00067_c0	H2O_c0 + ATP_c0 + Phosphate_e0 <=> ADP_c0 + 2.0 Phosphate_c0 + H_c0	
+rxn10945_c0	0	0	cpd00129_e0 <=> cpd00129_c0	L_Proline_e0 <=> L_Proline_c0	
+rxn05596_c0	0	1000	cpd00067_e0 + cpd00205_c0 <=> cpd00067_c0 + cpd00205_e0	H_e0 + K_c0 <=> H_c0 + K_e0	
+rxn10043_c0	0	0	0.5 cpd00007_c0 + 6.0 cpd00067_c0 + 2.0 cpd00110_c0 <=> cpd00001_c0 + 4.0 cpd00067_e0 + 2.0 cpd00109_c0	0.5 O2_c0 + 6.0 H_c0 + 2.0 Cytochrome_c2_c0 <=> H2O_c0 + 4.0 H_e0 + 2.0 Cytochrome_c3_c0	
+rxn00265_c0	0	1000	cpd00137_c0 <=> cpd00029_c0 + cpd00032_c0	Citrate_c0 <=> Acetate_c0 + Oxaloacetate_c0	
+rxn00146_c0	0	1000	2.0 cpd00109_c0 + cpd00221_c0 <=> cpd00020_c0 + 2.0 cpd00067_c0 + 2.0 cpd00110_c0	2.0 Cytochrome_c3_c0 + D_Lactate_c0 <=> Pyruvate_c0 + 2.0 H_c0 + 2.0 Cytochrome_c2_c0	
+rxn09240_c0	0	1000	cpd00001_c0 + cpd00002_c0 + cpd00038_c0 + cpd00048_c0 <=> cpd00009_c0 + cpd00012_c0 + cpd00031_c0 + cpd00193_c0	H2O_c0 + ATP_c0 + GTP_c0 + Sulfate_c0 <=> Phosphate_c0 + PPi_c0 + GDP_c0 + APS_c0	
+rxn03991_c0	0	1000	cpd00005_c0 + 2.0 cpd00007_c0 + 2.0 cpd00418_c0 <=> cpd00006_c0 + cpd00067_c0 + 2.0 cpd00209_c0	NADPH_c0 + 2.0 O2_c0 + 2.0 NO_c0 <=> NADP_c0 + H_c0 + 2.0 Nitrate_c0	
+rxn00347_c0	0	1000	cpd00041_c0 <=> cpd00013_c0 + cpd00106_c0	L_Aspartate_c0 <=> NH3_c0 + Fumarate_c0	
+rxn05604_c0	0	1000	2.0 cpd00067_e0 + cpd00130_e0 + cpd00159_c0 + cpd00971_c0 <=> 2.0 cpd00067_c0 + cpd00130_c0 + cpd00159_e0 + cpd00971_e0	2.0 H_e0 + L_Malate_e0 + L_Lactate_c0 + Na_c0 <=> 2.0 H_c0 + L_Malate_c0 + L_Lactate_e0 + Na_e0	
+rxn03990_c0	0	1000	cpd00004_c0 + 2.0 cpd00007_c0 + 2.0 cpd00418_c0 <=> cpd00003_c0 + cpd00067_c0 + 2.0 cpd00209_c0	NADH_c0 + 2.0 O2_c0 + 2.0 NO_c0 <=> NAD_c0 + H_c0 + 2.0 Nitrate_c0	
+rxn05209_c0	0	1000	cpd00067_c0 + cpd00971_e0 <=> cpd00067_e0 + cpd00971_c0	H_c0 + Na_e0 <=> H_e0 + Na_c0	
+rxn00058_c0	0	1000	cpd00007_c0 + 4.0 cpd00067_c0 + 4.0 cpd00110_c0 <=> 2.0 cpd00001_c0 + 4.0 cpd00109_c0	O2_c0 + 4.0 H_c0 + 4.0 Cytochrome_c2_c0 <=> 2.0 H2O_c0 + 4.0 Cytochrome_c3_c0	
